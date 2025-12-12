@@ -25,7 +25,7 @@ import org.json.JSONObject
 
 class FigurineRepository(private val context: Context) {
     companion object {
-        private const val BASE_URL = "http://35.232.52.16/"
+        private const val BASE_URL = "http://35.226.2.144/"
         private const val POLL_INTERVAL_MS = 3000L
         private const val MAX_POLL_ATTEMPTS = 60
     }

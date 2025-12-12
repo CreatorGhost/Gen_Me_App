@@ -11,7 +11,7 @@ import retrofit2.http.*
 
 /**
  * Retrofit API service interface for Virtual Try-On API
- * Base URL: http://35.232.52.16
+ * Base URL: http://35.226.2.144
  */
 interface VirtualTryOnApiService {
     
